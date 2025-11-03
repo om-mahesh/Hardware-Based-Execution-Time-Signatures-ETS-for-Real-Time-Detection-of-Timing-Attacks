@@ -1,0 +1,63 @@
+# Vivado files
+vivado_project/
+*.jou
+*.log
+*.str
+*.rpt
+*.bit
+*.ltx
+*.dcp
+*.hwdef
+.Xil/
+
+# Software build artifacts
+*.elf
+*.bin
+*.hex
+*.o
+*.map
+*.asm
+
+# Toolchain
+software/toolchain/riscv-toolchain/
+
+# Simulation
+sim/*.vcd
+sim/*.wdb
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+.vscode/
+.idea/
+
+# Temporary
+build/
+temp/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+
+# Logs and build reports
+*_log.txt
+*_log.txt.*
+
+# Patent/legal documents (optional - keep private)
+# InventionDisclosureFormIITMandi.docx
+
