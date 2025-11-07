@@ -166,8 +166,6 @@ You’re free to use, modify, and distribute this work with attribution.
 
 ## 🙏 Acknowledgements
 Developed at **Indian Institute of Technology Mandi (IIT Mandi)**.  
-Special thanks to **Dr. Bikram Paul** and the **Embedded Systems & VLSI Research Group** for their invaluable guidance and insights.
-
 ---
 
 ## 📬 Contact
@@ -179,5 +177,6 @@ Special thanks to **Dr. Bikram Paul** and the **Embedded Systems & VLSI Research
 > “Timing attacks are whispers — ETS teaches hardware to listen.”
 
 ---
+
 
 
